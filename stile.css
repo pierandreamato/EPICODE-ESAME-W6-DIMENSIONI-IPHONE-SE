@@ -1,0 +1,192 @@
+/* IMPOSTAZIONI GENERALI*/
+
+/* LOGO SECTION */
+
+  #logo{
+    width: 85px;
+  }
+  .logo-section{
+  background-color: black;
+  padding: 25px;
+  margin-bottom: 50px;
+
+  /* HEADER */
+ 
+}
+header {
+  text-align: center;
+  background-image: url(assets/images/banner.jpg);
+  background-size: cover;
+  background-position: center;
+  
+}
+
+/* BUTTON */
+
+#button {
+  background-color: #f04c2f;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  color: white;
+  padding: 10px 25px 10px 25px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  text-transform: uppercase;
+  
+}
+
+
+
+/* TITOLI*/
+
+h1,h2,h4{
+  color: #25a2c3;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  line-height: 1.5;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 25px;
+}
+
+h1{
+  font-size: 35px;
+  margin-bottom: 25px;
+  line-height: normal;
+  
+}
+
+h3 {
+
+  font-size: 25px;
+  color: white;
+  font-weight: 700;
+  margin-bottom: 25px;
+
+}
+
+h4{
+  font-size: 17px;
+
+}
+
+h6{
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 25px;
+
+}
+
+
+
+/* BODY*/
+
+body{
+
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  
+/*BODY TEXT*/
+color: #393d41;
+line-height: 1,65;
+font-size: 1.2rem;
+font-family: 'Open Sans';
+text-align: center;
+}
+
+
+
+/* CIT */
+
+blockquote{
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding: 30px;
+  color:white;
+  background-color: red;
+  text-align: center;
+  font-size: 15px;
+}
+
+
+
+/* MAIN*/
+
+p {
+  font-size: 15px;
+  line-height: 1.5;
+  text-align: center;
+  font-family: 'Open Sans';
+  margin-top: 10px;
+
+ 
+}
+
+.cit{
+  font-size: 13px;
+
+}
+
+#notebook{
+  max-width: 200px;
+  max-height: 200px;
+  border-radius: 50%;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+}
+
+/*SECTION MAINS*/
+
+.box {
+  width: 100%;
+  
+}
+
+section {
+  border: 1px solid #dee1e3;
+  margin: 25px;
+  padding-bottom: 25px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+
+}
+
+/* FOOTER */
+
+footer {
+  color: white;
+  background-color: #25a2c3;
+  justify-content: center;
+  
+}
+
+
+a {
+  color: #c8e7f0;
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+
+#titolo-footer{
+  color: white;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+}
+
+
+footer {
+  background-color: #34aac9;
+  background-image: linear-gradient(to bottom #34aac9 #178a8c);
+  color: #c8e7f0;
+  padding-bottom: 25px;
+  padding-top: 10px;
+}
